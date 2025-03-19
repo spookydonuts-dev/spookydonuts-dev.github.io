@@ -19,4 +19,10 @@
 ### Dead Cells, Blasphemous 1 and 2, Hollow Knight, Ender Lillies,
 
 ## Extra Links
-### 
+### [PPSSPP](https://www.ppsspp.org)
+### [AetherSX](https://aethersx2.me)
+### [DuckSatation](https://duckstation.org/)
+### [Drastic](https://archive.org/details/com.dsemu.drastic_109_apps.evozi.com)
+### [Rpcsx3](https://rpcs3.net)
+### [Dolphin Emulater](https://dolphin-emu.org/)
+### [Snes9x](https://www.snes9x.com)
